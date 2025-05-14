@@ -1,0 +1,14 @@
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\bin\Debug\lab1.exe.config
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\bin\Debug\lab1.exe
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\bin\Debug\lab1.pdb
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\obj\Debug\lab1.exe
+C:\Users\dderp\Desktop\kpz_lab1\kpz_lab_1\lab1\obj\Debug\lab1.pdb
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\obj\Debug\lab1.exe
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\obj\Debug\lab1.pdb
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\bin\Debug\lab1.exe.config
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\bin\Debug\lab1.exe
+C:\Users\dderp\Desktop\kpz_lab_1\lab1\bin\Debug\lab1.pdb
